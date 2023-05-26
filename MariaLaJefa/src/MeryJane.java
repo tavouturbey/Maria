@@ -10,7 +10,7 @@ public class MeryJane {
         // Comprobar si la edad está entre 18 y 66
         if (edad < 18 || edad > 65) {
 
-            System.out.println("La EDAD debe estar entre 18 y 88 años.");
+            System.out.println("La EDAD debe estar entre 18 y 908 años.");
         } else {
             // Pedir DNI al usuario
             System.out.print("Introduce tu DNI (8 números y 1 letra): ");
